@@ -4,7 +4,7 @@
 
 ### Anna Carolina Menezes de Roldao
 
-|**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
+|**Classificação de Imagem**|**MobileNetV2**|**Tensorflow**|
 |--|--|--|
 
 |Classificação de Imagens<br>ou<br>Deteção de Objetos|ex.: YOLOv5|PyTorch ou Tensorflow|
