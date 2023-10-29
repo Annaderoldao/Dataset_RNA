@@ -3574,3 +3574,4 @@ Exemplo de link: [Roboflow - Meios de Transportes]([google.com](https://app.robo
 ## HuggingFace
 
 Nessa seção você deve publicar o link para o HuggingFace
+https://huggingface.co/carolderoldao/MeiosdeTransportes/tree/main
